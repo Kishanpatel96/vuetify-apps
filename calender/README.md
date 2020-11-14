@@ -1,4 +1,4 @@
-# calender-events
+# Calender-Events
 
 ## Description
 > This is simple a Calender Application.
@@ -11,7 +11,11 @@
 
 > This is mobile and web friendly.
 
-
+## Languages Used
+  - Vuejs (Version 2).
+  - CSS
+  - HTML
+  
 ### Compiles and hot-reloads for development
 ```
 npm run serve
