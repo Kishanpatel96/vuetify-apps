@@ -1,4 +1,4 @@
-# vuetify-todo
+# Vuetify-Todo
 
 ## Description
 > This is simple a Todo Application.
@@ -7,7 +7,11 @@
 
 > This is mobile and web friendly.
 
-
+## Languages Used
+  - Vuejs (Version 2).
+  - CSS
+  - HTML
+  
 ### Compiles and hot-reloads for development
 ```
 npm run serve
